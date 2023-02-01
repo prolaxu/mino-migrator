@@ -1,0 +1,16 @@
+{
+    "from_bucket":{
+        "endpoint":"127.0.0.1:9000",
+        "access_key":"minioadmin",
+        "secret_key":"minioadmin",
+        "secure":false,
+        "bucket":"yubasangh"
+    },
+    "to_bucket":{
+            "endpoint":"127.0.0.1:9000",
+            "access_key":"minioadmin",
+            "secret_key":"minioadmin",
+            "secure":false,
+            "bucket":"testbucket"
+    }
+}
